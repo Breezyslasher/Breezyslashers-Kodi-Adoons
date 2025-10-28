@@ -1,1 +1,9 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
 
+msgid "Show notification when webhook is sent"
+msgstr "Show notification when webhook is sent"
+
+msgid "Enable Action 1"
+msgstr "Enable Action 1"
